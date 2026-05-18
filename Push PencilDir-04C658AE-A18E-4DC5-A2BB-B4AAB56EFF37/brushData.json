@@ -4539,6 +4539,9 @@
     1,
     1
   ],
+  "tags" : [
+      "Morph"
+  ],
   "controllerStrengthDefaultPosition" : 0.6019089,
   "customShaderEnabled" : true,
   "controllerSizeDefaultPosition" : 0.7298757

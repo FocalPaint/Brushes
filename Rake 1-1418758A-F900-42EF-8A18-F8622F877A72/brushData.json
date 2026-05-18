@@ -11,6 +11,9 @@
     1,
     1
   ],
+  "tags" : [
+      "Painting"
+  ],
   "brushLUTs" : [
     {
       "resolution" : 1024,
