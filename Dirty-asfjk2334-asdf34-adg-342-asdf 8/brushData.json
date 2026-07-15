@@ -30188,5 +30188,8 @@
     1,
     1
   ],
-  "brushName" : "Dirty"
+  "brushName" : "Dirty",
+  "tags" : [
+      "Painting"
+  ],
 }

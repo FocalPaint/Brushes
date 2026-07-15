@@ -5,6 +5,9 @@
     1,
     1
   ],
+  "tags" : [
+      "Morph"
+  ],
   "author" : "Brien Dieterle",
   "controllerSizeDefaultPosition" : 0.6283167,
   "customShaderEnabled" : true,
